@@ -1,4 +1,4 @@
-module github.com/homedepot/flop
+module github.com/vimalds/flop
 
 go 1.14
 
