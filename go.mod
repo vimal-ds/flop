@@ -1,4 +1,4 @@
-module github.com/vimalds/flop
+module github.com/vimal-ds/flop
 
 go 1.14
 
